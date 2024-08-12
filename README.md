@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Myeongji usuablly go by @Jean-alien
+- 👋 Hi, I’m Myeongji usually go by @Jean-alien
 - 🎓 I'm 24 Spring UNA graduate w/ major in IT
 - 👀 I’m interested in Snowboarding 🏂🏼, fountain pens 🖋️, transcribing, cooking 🍳, national parks 🏞️
 - 🌱 I’m currently learning PHP, MERN stack, and Express.js, EJS, and so on...
