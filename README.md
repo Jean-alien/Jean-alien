@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning PHP, MERN stack, and Express.js, EJS, and so on...
 - 💞️ I’m looking to collaborate on ...have not made up my mind yet...
 - 📫 How to reach me: man@una.edu/myeongjian000@gmail.com
-  [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,express,python,java,html,css,mongodb,php,javascript,json)](https://skillicons.dev)
+**Skills**
+  [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,express,python,java,html,css,vue,mongodb,php,javascript,windows,linux,eclipse,vscode)](https://skillicons.dev)
 
 <!---
 Jean-alien/Jean-alien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
