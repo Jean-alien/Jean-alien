@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...have not made up my mind yet...
 - 📫 How to reach me: man@una.edu/myeongjian000@gmail.com
 **Skills**
-  [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,express,python,java,html,css,vue,mysql,mongodb,php,javascript,windows,linux,eclipse,vscode,aws,docker,kubernetes)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,express,python,java,html,css,vue,mysql,mongodb,php,javascript,windows,linux,eclipse,vscode,powershell,ubuntu,aws,docker,kubernetes)](https://skillicons.dev)
 
 <!---
 Jean-alien/Jean-alien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
